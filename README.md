@@ -2,7 +2,7 @@
 
 This project was intended for study purpose in [Cilsy Sekolah Mobile](https://sekolahmobile.com) to create an Online Book Store Mobile App.
 
-For detailed path & usage, please check the [Swagger Documentation](https://tokobukuonline.herokuapp.com/swagger-ui.html).
+For detailed path & usage, please check the [Swagger Documentation](https://cilsyonlinebookstore.herokuapp.com/swagger-ui.html).
 
 ### User Role
 - Authentication (sign in, sign up, sign out)
